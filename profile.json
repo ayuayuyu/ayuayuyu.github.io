@@ -27,37 +27,13 @@
       "sourceHash": ""
     },
     {
-      "name": "lab-presence",
-      "generatedText": "",
-      "appealText": "",
-      "sourceHash": ""
-    },
-    {
       "name": "dotfiles",
       "generatedText": "Nix Flakes と home-manager で macOS と Linux を統一管理する dotfiles リポジトリ。darwin-rebuild と home-manager switch で宣言的に環境を構築・更新できる。",
       "appealText": "",
       "sourceHash": "041a3d64066b3d2919591341af514878ae37875694fb5055ee53537dbd81a11e"
     },
     {
-      "name": "obsidian-vault",
-      "generatedText": "",
-      "appealText": "",
-      "sourceHash": ""
-    },
-    {
       "name": "ayuayuyu",
-      "generatedText": "",
-      "appealText": "",
-      "sourceHash": ""
-    },
-    {
-      "name": "macOS-af-route",
-      "generatedText": "",
-      "appealText": "",
-      "sourceHash": ""
-    },
-    {
-      "name": "sysken-pay-front",
       "generatedText": "",
       "appealText": "",
       "sourceHash": ""
@@ -67,18 +43,6 @@
       "generatedText": "",
       "appealText": "",
       "sourceHash": ""
-    },
-    {
-      "name": "diary-web",
-      "generatedText": "GoogleやGitHubで認証してMarkdown対応の日記を投稿・共有できるWebアプリ。Cloudflare Workers + D1とNext.jsで構築し、クリーンアーキテクチャによる保守性の高い設計を採用している。",
-      "appealText": "",
-      "sourceHash": "7295d201d7e3f53b79f515ef1704e86ee45ba8a2e60fcc45f293f586537a2d5f"
-    },
-    {
-      "name": "diary",
-      "generatedText": "日記を記録・管理できるWebアプリ。Next.jsとHonoで構成し、PostgreSQLをPrismaで操作、Docker Composeで開発環境を一括構築できる。",
-      "appealText": "",
-      "sourceHash": "0c523efde904874a7e8a88300d070b5616f3b596a4bf0f801c1253aa6bc1ae38"
     }
   ]
 }
